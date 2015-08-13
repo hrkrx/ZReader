@@ -1,0 +1,9 @@
+﻿<Window x:Class="ZReader.Splash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Splash" Height="300" Width="450" Topmost="True" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None">
+    <Grid Background="#FFFF8000">
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Margin="0, 0, 0, 15" Text="Z Reader" VerticalAlignment="Center" Foreground="#FFFBF9F9" FontSize="100" FontWeight="Bold"/>
+        <ProgressBar x:Name="pbProgress" HorizontalAlignment="Center" Height="10" VerticalAlignment="Bottom" Width="450" Foreground="#FFC7C7C7" Background="White" BorderBrush="#FFA8A8A8"/>
+    </Grid>
+</Window>

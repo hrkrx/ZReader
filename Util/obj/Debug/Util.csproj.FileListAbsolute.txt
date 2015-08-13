@@ -1,0 +1,6 @@
+C:\Users\Leifeld\Documents\Visual Studio 2012\Projects\ZReader\Util\bin\Debug\Util.dll
+C:\Users\Leifeld\Documents\Visual Studio 2012\Projects\ZReader\Util\bin\Debug\Util.pdb
+C:\Users\Leifeld\Documents\Visual Studio 2012\Projects\ZReader\Util\bin\Debug\eBdb.EpubReader.dll
+C:\Users\Leifeld\Documents\Visual Studio 2012\Projects\ZReader\Util\bin\Debug\Ionic.Zip.dll
+C:\Users\Leifeld\Documents\Visual Studio 2012\Projects\ZReader\Util\obj\Debug\Util.dll
+C:\Users\Leifeld\Documents\Visual Studio 2012\Projects\ZReader\Util\obj\Debug\Util.pdb
